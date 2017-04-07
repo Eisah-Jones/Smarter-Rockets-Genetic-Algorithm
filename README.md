@@ -3,4 +3,4 @@ This is a 3D Remake of the original Smart Rockets program that can be found here
 
 Read the blog post here: https://csthings.net/smarter-rockets/
 
-This was programmed in Unity in C#
+This was programmed using Unity in C#
